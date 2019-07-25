@@ -1,0 +1,18 @@
+product,size,quantity,price in rs,totalprice
+bolts,1,5000,4,20000
+bolts,2,3000,4.5,13500
+bolts,5,3500,7,24500
+nuts,1,5000,0.5,2500
+nuts,2,3000,0.7,2100
+nuts,5,3500,1.5,5250
+steel bars,1,500,45,22500
+steel bars,2,500,70,35000
+steel bars,4,1000,45,45000
+iron bars,1,700,25,17500
+iron bars,2,700,40,28000
+iron bars,4,500,75,37500
+iron rods,1,500,50,25000
+iron rods,2,500,60,30000
+sheets,1,300,150,15000
+books,10,100,500,50000
+forged,111,23,43,989
